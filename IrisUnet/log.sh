@@ -1,0 +1,1 @@
+ tensorboard --logdir='/data5/caiyong.wang/program/IrisMaskSegNet_casia/checkpoints/Iris_CASIA_i256x256_o256x256_0612_181430/log/' --port=7000
